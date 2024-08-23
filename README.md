@@ -10,7 +10,7 @@ pip install virtualenv
 ## Instalación
 1. Clonar el repositorio
 ```bash
-git clone
+git clone https://github.com/junior-r/speech-to-text.git
 ```
 2. Crear un entorno virtual
 ```bash
